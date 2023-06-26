@@ -1,0 +1,9 @@
+/* style for image to compare design as pixel perfect approach */
+.pixel-perfect-image {
+  position: fixed;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  opacity: 0.5;
+  filter: sepia(0.6);
+}
