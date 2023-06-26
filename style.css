@@ -7,3 +7,11 @@
   opacity: 0.5;
   filter: sepia(0.6);
 }
+
+header {
+  color:deepskyblue;
+}
+
+footer {
+  color: darkblue;
+}
